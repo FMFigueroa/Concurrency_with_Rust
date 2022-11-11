@@ -18,7 +18,7 @@ these constraints influence the fundamental types' implementations. The reader w
 
 - Is the first in which notions of concurrency make their appearance. The chapter discusses the Sync and Send traits, both why they exist and their implications. The chapter closes with a concrete demonstration of a multithreaded Rust program. Not the last, either.
 
-## Chapter 5 - Locks – Mutex, Condvar, Barriers and RWLock
+## [Chapter 5 - Locks – Mutex, Condvar, Barriers and RWLock](https://github.com/FMFigueroa/Concurrency_with_Rust/tree/main/src/Chapter_05)
 
 - Introduces the coarse synchronization methods available to the Rust programmer. Each is examined in turn and demonstrated in context of an industrial Rust project, hopper. The
 coarse synchronization methods are elaborated on in more detail in a series of smaller projects and data structures.
